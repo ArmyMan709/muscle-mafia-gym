@@ -23,7 +23,7 @@ const classes: ClassType[] = [
     duration: '90 min',
     level: 'Advanced',
     description: 'Build strength and power with professional powerlifting techniques.',
-    image: '/images/powerlifting.jpg'
+    image: '/muscle-mafia-gym/images/powerlifting.jpg'
   },
   {
     id: 2,
@@ -33,7 +33,7 @@ const classes: ClassType[] = [
     duration: '60 min',
     level: 'Intermediate',
     description: 'Sculpt your dream physique with our comprehensive bodybuilding program.',
-    image: '/images/bodybuilding.jpg'
+    image: '/muscle-mafia-gym/images/bodybuilding.jpg'
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const classes: ClassType[] = [
     duration: '45 min',
     level: 'Intermediate',
     description: 'High-intensity interval training for maximum fat burn and conditioning.',
-    image: '/images/hiit.jpg'
+    image: '/muscle-mafia-gym/images/hiit.jpg'
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ const classes: ClassType[] = [
     duration: '75 min',
     level: 'Beginner',
     description: 'Build foundational strength and improve overall conditioning.',
-    image: '/images/strength.jpg'
+    image: '/muscle-mafia-gym/images/strength.jpg'
   }
 ]
 
