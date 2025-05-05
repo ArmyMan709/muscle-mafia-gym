@@ -77,7 +77,6 @@ export default function ClassesPage() {
               className="bg-secondary/10 rounded-lg overflow-hidden hover:bg-secondary/20 transition-all duration-300"
             >
               <div className="relative h-48">
-                <div className="absolute inset-0 bg-black/50 z-10" />
                 <Image
                   src={classItem.image}
                   alt={classItem.name}
