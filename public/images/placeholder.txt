@@ -1,0 +1,14 @@
+Please add the following images to this directory:
+
+1. hero-bg.jpg - Main hero background image
+2. junaid.jpg - Photo of Muhammad Junaid
+3. humyunh.jpg - Photo of Humyunh Mughal
+4. powerlifting.jpg - Powerlifting class image
+5. bodybuilding.jpg - Bodybuilding class image
+6. hiit.jpg - HIIT training image
+7. strength.jpg - Strength & conditioning image
+
+Images should be:
+- High quality (at least 1920x1080 for hero, 800x600 for others)
+- Well-lit and professional looking
+- Relevant to the content they represent 
