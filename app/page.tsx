@@ -9,7 +9,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-primary/60 z-10" />
           <Image
-            src="/muscle-mafia-gym/images/hero2.jpg"
+            src="/images/hero2.jpg"
             alt="Muscular bodybuilder in gym"
             fill
             className="object-cover"

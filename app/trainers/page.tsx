@@ -24,7 +24,7 @@ const trainers: TrainerType[] = [
     specialization: 'Bodybuilding & Crossfit',
     experience: '8+ years',
     description: 'Expert in powerlifting techniques and high-intensity training. Specializes in Crssfit and athletic performance.',
-    image: '/muscle-mafia-gym/images/Junaid_Rajpoot.PNG',
+    image: '/images/Junaid_Rajpoot.PNG',
     certifications: [
       'Sports Nutrition Specialist',
       'Elite Powerlifting Coach',
@@ -41,7 +41,7 @@ const trainers: TrainerType[] = [
     specialization: 'Bodybuilding & Weight Loss',
     experience: '30+ years',
     description: 'Professional bodybuilding coach with expertise in muscle development, Weight loss and nutritional planning.',
-    image: '/muscle-mafia-gym/images/HUmyun-mugl.png',
+    image: '/images/HUmyun-mugl.png',
     certifications: [
       'Professional Bodybuilding Coach',
       'Advanced Strength Training Expert',
